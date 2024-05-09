@@ -48,7 +48,7 @@ main{
 .container{
     display: flex;
     justify-content: center;
-    height: 735px;
+    height: 822px;
     align-items: center;
 }
 .container p{
