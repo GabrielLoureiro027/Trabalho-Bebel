@@ -69,13 +69,13 @@ main{
     font-size: 20px;
 }
 .bnt-clicar{
-    padding: 8px;
+    margin-top: 10px;
+    padding: 10px 0px;
     background-color: #7c6f5b70;
     border: none;
     font-size: 18px;
     border-radius: 10px;
     width: 150px;
-    margin-top: 5px;
     text-align: center;
     text-decoration: none;
     color: black;
